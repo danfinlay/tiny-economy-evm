@@ -6,5 +6,5 @@ Written for small personal ethereum-platform experiments between groups who can 
 
 To install (with node.js installed): `npm install ganache-cli -g`.
 
-To run: `./start.sh`.
+To run: `./start.sh $HOSTNAME $PORT`.
 
